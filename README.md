@@ -443,3 +443,7 @@ It broadcasts channels through the internet 24/7. The service is completely free
   </extension>
 </addon>
 </addons>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/HALOW96/halow-tv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
